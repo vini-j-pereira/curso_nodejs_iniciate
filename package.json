@@ -1,0 +1,22 @@
+{
+  "name": "curso_nodejs_iniciate",
+  "version": "1.0.0",
+  "description": "Curso nodejs para iniciantes",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vini-j-pereira/curso_nodejs_iniciate.git"
+  },
+  "author": "Vinícius José",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vini-j-pereira/curso_nodejs_iniciate/issues"
+  },
+  "homepage": "https://github.com/vini-j-pereira/curso_nodejs_iniciate#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
